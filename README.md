@@ -1,1 +1,2 @@
-** SIMPLE GALLERY ON LARAVEL**
+SIMPLE GALLERY ON LARAVEL
+========================
